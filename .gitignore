@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+dev.env
+.env
+
+# Recordings
+recordings/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDEs
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.temp
+*.log
